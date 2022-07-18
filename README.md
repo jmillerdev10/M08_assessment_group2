@@ -7,7 +7,7 @@ The US Census Bureau is constantly collecting vast amounts of data from the coun
 
 **main_notebook.ipynb** - Contains all the code to extract, transform and plot all the data
 
-**Family-Owned Business Performance.xlsx** - Presentation
+**Family-Owned Business Performance.pptx** - Presentation
 
 **M08_Project_Report_Group2.pdf** - Project Report
 
