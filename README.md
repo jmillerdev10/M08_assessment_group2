@@ -12,3 +12,7 @@ The US Census Bureau is constantly collecting vast amounts of data from the coun
 **M08_Project_Report_Group2.pdf** - Project Report
 
 **plots** - Contains various plot images
+
+------
+Data can be found at:
+https://www.census.gov/data/developers/data-sets/abs.2019.html
